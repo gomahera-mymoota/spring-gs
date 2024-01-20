@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "/home/iceman4u/dev/spring-gsdependenciesspring-gs",
+			"script": "dependencies",
+			"description": "Displays all dependencies declared in root project 'spring-gs'.",
+			"group": "help",
+			"project": "spring-gs",
+			"buildFile": "/home/iceman4u/dev/spring-gs/build.gradle",
+			"rootProject": "spring-gs",
+			"projectFolder": "/home/iceman4u/dev/spring-gs",
+			"workspaceFolder": "/home/iceman4u/dev/spring-gs",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: dependencies"
+		}
+	]
+}
